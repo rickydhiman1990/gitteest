@@ -26,11 +26,14 @@ jobs:
       - uses: actions/checkout@v4
 
       # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
+      - name: commands check karni hai 
+        run: echo Hello, ricky bhai ek number dada
 
       # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      - name: commands yaha pe chalegi
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          
+          pwd
+          ls -lrth
+          ls -a
+          whoami
