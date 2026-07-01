@@ -282,3 +282,5 @@ Ye explanation interview mein kaafi strong impression banata hai.
 
 
 khatam hai bhai code abb kya bache ki jan lega kya 
+
+feature 2 mai changes hai 
