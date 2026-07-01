@@ -277,3 +277,8 @@ Bastion ek shared administrative service hai, isliye Hub mein rakhne se sab Spok
 NAT Gateway ko Hub mein centralize karne se outbound internet traffic ek controlled path se jaata hai aur multiple spokes ke liye alag-alag NAT Gateway deploy karne ki zarurat kam padti hai (architecture aur routing requirements ke hisaab se design vary kar sakta hai).
 
 Ye explanation interview mein kaafi strong impression banata hai.
+
+
+
+
+khatam hai bhai code abb kya bache ki jan lega kya 
